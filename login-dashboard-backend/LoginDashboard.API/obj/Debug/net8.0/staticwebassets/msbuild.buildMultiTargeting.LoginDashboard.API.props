@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LoginDashboard.API.props" />
+</Project>

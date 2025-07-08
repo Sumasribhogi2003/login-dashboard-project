@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3nBO5YAwZWapotfY5tissOAx7z8zjPsZD7J8AaqwgDg=",
+  "Source": "LoginDashboard.API",
+  "BasePath": "_content/LoginDashboard.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
